@@ -1,4 +1,4 @@
-## Exploratory data analysis (Project 1)
+## Introduction
 
 My repository contains 2 folders: "Scripts" (with 5 R code files) and "Plots" (with 4 PNG files).
 
